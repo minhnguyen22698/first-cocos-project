@@ -1,0 +1,70 @@
+2021-04-12T08:45:38.744Z - normal: Load ~/.CocosCreator/settings.json
+2021-04-12T08:45:38.791Z - normal: Initializing Asset Database
+2021-04-12T08:45:38.793Z - normal: checking language setting...
+2021-04-12T08:45:38.793Z - normal: Language: en
+2021-04-12T08:45:39.252Z - success: preview server running at http://localhost:7456
+2021-04-12T08:45:39.261Z - success: protocol editor-framework registered
+2021-04-12T08:45:39.261Z - success: protocol app registered
+2021-04-12T08:45:39.261Z - success: protocol theme registered
+2021-04-12T08:45:39.261Z - success: protocol packages registered
+2021-04-12T08:45:39.261Z - success: protocol uuid registerred
+2021-04-12T08:45:39.261Z - success: protocol db registerred
+2021-04-12T08:45:39.261Z - success: protocol thumbnail registerred
+2021-04-12T08:45:39.262Z - success: protocol unpack registerred
+2021-04-12T08:45:39.262Z - success: protocol disable-commonjs registerred
+2021-04-12T08:45:39.807Z - normal: connected!
+2021-04-12T08:45:39.809Z - normal: Check project /Users/gemi/Downloads/tutorial-first-game-2.4/start_project
+2021-04-12T08:45:39.810Z - normal: Initializing project /Users/gemi/Downloads/tutorial-first-game-2.4/start_project
+2021-04-12T08:45:40.065Z - normal: Initializing Cocos2d
+2021-04-12T08:45:40.532Z - normal: Initializing engine extends
+2021-04-12T08:45:40.558Z - success: alipay-adapter loaded
+2021-04-12T08:45:40.562Z - success: asset-db-debugger loaded
+2021-04-12T08:45:40.563Z - success: baidu-adapter loaded
+2021-04-12T08:45:40.564Z - success: color-picker loaded
+2021-04-12T08:45:40.647Z - success: fb-audience-network loaded
+2021-04-12T08:45:40.677Z - success: fb-live-stream loaded
+2021-04-12T08:45:40.679Z - success: google-play-instant loaded
+2021-04-12T08:45:40.682Z - success: huawei-runtime loaded
+2021-04-12T08:45:40.827Z - success: cpk-publish loaded
+2021-04-12T08:45:40.828Z - success: jsb-adapter loaded
+2021-04-12T08:45:40.831Z - success: oppo-runtime loaded
+2021-04-12T08:45:40.834Z - success: package-manager loaded
+2021-04-12T08:45:40.905Z - success: qqplay-adapter loaded
+2021-04-12T08:45:40.906Z - success: runtime-dev-tools loaded
+2021-04-12T08:45:40.909Z - success: sdkbox loaded
+2021-04-12T08:45:40.912Z - success: tester loaded
+2021-04-12T08:45:40.914Z - success: ui-kit-preview-extra loaded
+2021-04-12T08:45:40.916Z - success: ui-kit-preview loaded
+2021-04-12T08:45:40.918Z - success: ui-kit loaded
+2021-04-12T08:45:40.922Z - success: vivo-runtime loaded
+2021-04-12T08:45:40.923Z - success: weapp-adapter loaded
+2021-04-12T08:45:40.923Z - success: xiaomi-adapter loaded
+2021-04-12T08:45:40.930Z - success: alipay-minigame loaded
+2021-04-12T08:45:40.965Z - success: assets loaded
+2021-04-12T08:45:40.968Z - success: builder loaded
+2021-04-12T08:45:41.130Z - success: cocos-services loaded
+2021-04-12T08:45:41.135Z - success: console loaded
+2021-04-12T08:45:41.160Z - success: fb-instant-games loaded
+2021-04-12T08:45:41.162Z - success: game-window loaded
+2021-04-12T08:45:41.163Z - success: google-instant-games loaded
+2021-04-12T08:45:41.167Z - success: hierarchy loaded
+2021-04-12T08:45:41.170Z - success: inspector loaded
+2021-04-12T08:45:41.171Z - success: keystore loaded
+2021-04-12T08:45:41.175Z - success: node-library loaded
+2021-04-12T08:45:41.175Z - success: package-asset loaded
+2021-04-12T08:45:41.176Z - success: preferences loaded
+2021-04-12T08:45:41.178Z - success: project-exporter loaded
+2021-04-12T08:45:41.182Z - success: project-importer loaded
+2021-04-12T08:45:41.185Z - success: project-settings loaded
+2021-04-12T08:45:41.188Z - success: scene loaded
+2021-04-12T08:45:41.189Z - success: simulator-debugger loaded
+2021-04-12T08:45:41.190Z - success: sprite-editor loaded
+2021-04-12T08:45:41.193Z - success: store loaded
+2021-04-12T08:45:41.197Z - success: timeline loaded
+2021-04-12T08:45:41.202Z - success: xiaomi-runtime loaded
+2021-04-12T08:45:41.312Z - success: im-plugin loaded
+2021-04-12T08:45:44.585Z - info: Cocos Services load base data!
+2021-04-12T08:45:49.620Z - normal: Loading packages
+2021-04-12T08:45:49.625Z - normal: Watching packages
+2021-04-12T08:45:49.723Z - normal: Run Application
+2021-04-12T10:23:31.103Z - info: Only the prefab node "star" and its child nodes are saved.
